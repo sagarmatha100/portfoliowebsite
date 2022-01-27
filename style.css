@@ -363,7 +363,7 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 30%;
+    width: 80%;
 }
 .skills-content .right .autocad::before{
     width: 40%;
