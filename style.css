@@ -365,6 +365,12 @@ section .title::after{
 .skills-content .right .sap::before{
     width: 40%;
 }
+
+}
+.skills-content .right .safe::before{
+    width: 50%;
+}
+
 .skills-content .right .autocad::before{
     width: 50%;
 }
